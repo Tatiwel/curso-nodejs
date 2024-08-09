@@ -1,0 +1,16 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "curso_de_marco",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node build/index.js",
+    "build": "tsc",
+    "test": ""
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
